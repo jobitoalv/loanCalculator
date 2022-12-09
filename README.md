@@ -10,3 +10,7 @@ The HTML code uses the Bootstrap CSS framework to style the page and the form el
 
 
 <img width="633" alt="Screenshot 2022-12-06 at 12 28 33 pm" src="https://user-images.githubusercontent.com/74395645/205794103-2a17f37f-c0ba-4ae5-8baf-474fabca9b86.png">
+
+
+live demo:
+https://raw.githack.com/jobitoalv/loanCalculator/main/index.html
